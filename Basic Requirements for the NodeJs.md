@@ -1,0 +1,20 @@
+#### Nodejs Requirement for API Development
+- How the API Works
+- Pm2
+- NPM 
+- Async/Await
+- promises
+- CallStack
+- callback fuction
+- arrow function
+- Array 
+- Objects
+- Veriables
+- .env
+- Git Version Control
+- NodeJs pakages
+- Date Functions
+- Nodejs Mailer
+- S3 Bucket file upload
+- Payload/Paramas/formdata/Headers
+- Postman tool
